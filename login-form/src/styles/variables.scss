@@ -1,0 +1,20 @@
+
+$bodyBgColor: radial-gradient(circle at center, #6b466f 0%, #36113a 100%);
+
+
+$formHeaderBg: #7b537e linear-gradient(
+      0deg,
+      rgba(84, 56, 86, 0.6) 0%,
+      rgba(84, 56, 86, 0) 100%
+    );
+$formButtonBg:#7b537e linear-gradient(
+        0deg,
+        rgba(84, 57, 86, 0.6) 0%,
+        rgba(84, 57, 86, 0) 100%
+      );
+$formButtonBgHover:#7b537e linear-gradient(
+        0deg,
+        rgba(84, 57, 86, 0.6) 100%,
+        rgba(84, 57, 86, 0) 0%
+      );
+$formSubmitBtnBackgroundColor:linear-gradient(0deg, rgba(84,57,86,0.6) 0%, rgba(84,57,86,0) 100%);
