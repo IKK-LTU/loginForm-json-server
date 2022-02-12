@@ -2,26 +2,26 @@
 
 ## Server
 
-cd server
+> cd server
 
-## Install dependecies
+### Install dependecies
 
 > cd server
 > npm i
 
-## Run server
+### Run server
 
-npm start
+> npm start
 
 ## Client
 
-cd login-form
+> cd login-form
 
-## Install dependecies
+### Install dependecies
 
 > cd server
 > npm i
 
-## Run development
+### Run development
 
-npm start
+> npm start
